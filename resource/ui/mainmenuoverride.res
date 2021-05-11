@@ -1516,6 +1516,12 @@
 			"bgcolor_override"	"0 0 0 100"
 		}
 	}
+	
+	"DashboardDimmer"
+	{
+		"wide" "f0"
+		"tall"	"f0"
+	}
 
 	"EventPromo"
 	{
